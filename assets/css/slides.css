@@ -3,7 +3,7 @@
   font-size: 1.8em;
 }
 
-.caption {
+.caption, figcaption {
   margin: auto;
   text-align: center;
 }
