@@ -40,8 +40,98 @@ more!
 :seedling: :notes: :drum: :musical_keyboard: :dog:
 :::
 
+# :earth_asia: GeoJupyter community overview
+
+:link: [geojupyter.org](https://geojupyter.org/)
 
 
+## GeoJupyter community overview {.smaller}
+
+:::::::::columns
+::::::{.column width="48%"}
+![GeoJupyter is **not** software; it’s a **community** which will build many things together!](/assets/images/venn-diagram.svg)
+::::::
+
+::::::{.column width="4%"}
+::::::
+
+::::::{.column width="48%"}
+
+:::elevator-pitch
+<br />
+<br />
+
+<hr />
+GeoJupyter is an open and community-owned effort to
+[reimagine geospatial interactive computing experiences _within the Jupyter architecture_]{.jupyter-orange}
+to enable more people to confidently engage with geospatial data.
+<hr />
+
+<br />
+<br />
+
+Many players!!!
+:::
+::::::
+:::::::::
+
+
+## GeoJupyter community overview {.smaller}
+
+### Geospatial data practice for the modern era
+
+**Geospatial data is everywhere and matters for everyone! 🚚🚢🗺️🧪🌏**
+
+:::evenly-spaced
+:handshake: Real-time collaboration (like Google Docs)
+
+:recycle: Reproducibility (by default!)
+
+:leaves: Accessibility (transition to new ways of working, including reproducibility)
+
+:cloud: Cloud-native (computing, data formats)
+
+:robot: AI :scream: :boom: (risks & opportunities)
+
+<br />
+<br />
+:::
+
+## GeoJupyter community overview {.smaller}
+
+### Open, participatory development
+
+:::evenly-spaced
+:revolving_hearts: User-centered & user-led
+
+:hugs: Welcoming (like Jupyter)
+
+:flashlight: Exploring: finding & opening hidden doors
+
+:japanese_castle: Data & computational sovereignty
+
+<br />
+<br />
+:::
+
+
+## GeoJupyter community overview {.smaller}
+
+### Partners :scientist: :teacher: :technologist:
+
+* Maryam Hosseini - urban systems, computer vision, & open source
+* Clancy Wilmott - Critical Cartography, Geovisualisation and Design
+* Char Tomlinson - Earth science, GIS, vertical & volumetric landscapes
+* Sarah Chasins & Parker Zeigler - cartography, CS, & open source
+* Nancy Thomas & Iryna Dronova - Berkeley Geospatial Innovation Facility
+* Carl Boettiger - Geospatial, AI, & education
+* Benny Szeghy & Esha Potharaju - GeoJupyter interns
+* Qiusheng Wu - Geospatial, AI, & education
+* Friends & neighbors: BIDS, MyST, JupyterHub, earthaccess, QuantStack, DevSeed, Pangeo,
+  2i2c, Clark University, Stanford, Simula, CNES, ESA
+
+
+# :building_construction: Projects in the GeoJupyter community
 
 
 ## JupyterGIS
