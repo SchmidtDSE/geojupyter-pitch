@@ -22,8 +22,6 @@ format:
 
 ## :wave: Hi, I'm Matt! GitHub: `@mfisher87` {.smaller}
 
-::::::columns
-
 :::evenly-spaced
 :computer: Research Software Engineer ([RSE](https://us-rse.org/))
 
@@ -41,8 +39,6 @@ more!
 :open_hands: :open_book: :brain:
 :seedling: :notes: :drum: :musical_keyboard: :dog:
 :::
-
-::::::
 
 
 
