@@ -1,0 +1,13 @@
+[workspace]
+authors = ["Matt Fisher <mfisher87@gmail.com>"]
+channels = ["conda-forge"]
+name = "geojupyter-pitch"
+platforms = ["linux-64"]
+version = "0.1.0"
+
+[tasks]
+preview = "quarto preview"
+render = "quarto render"
+
+[dependencies]
+quarto = "==1.7.33"  # 1.8.x has a frustrating infinite refresh bug on the preview server

@@ -1,0 +1,58 @@
+/* css styles */
+#title-slide .title {
+  font-size: 1.8em;
+}
+
+.caption {
+  margin: auto;
+  text-align: center;
+}
+
+.elevator-pitch {
+  /* font-style: italic; */
+  position: absolute;
+  top: 50%;
+  transform: translate(0, -50%);
+  text-align: center;
+}
+
+.elevator-pitch hr {
+  width: 50%;
+  margin: auto;
+}
+
+.jupyter-orange {
+  color: #F37636;
+  font-weight: bold;
+}
+
+.fade {
+  color: lightgrey;
+}
+
+.evenly-spaced {
+  height: 80%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.center-content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.video-bg * {
+  color: white !important;
+  text-shadow:
+    -1px -1px 0 black,
+     1px -1px 0 black,
+    -1px  1px 0 black,
+     1px  1px 0 black,
+    -2px -2px 0 black,
+     2px -2px 0 black,
+    -2px  2px 0 black,
+     2px  2px 0 black !important;
+}
