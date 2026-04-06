@@ -224,26 +224,24 @@ Goal: Make it more intuitive for new community members to get started by self-se
 
 ## :thought_balloon: Discussion: Funding :money_with_wings:
 
-:::evenly-spaced
+::::::evenly-spaced
 Problem: Too much to do, never enough capacity!
 
+:::{style="font-size: 5em"}
 :ear:
-
-<br />
-<br />
 :::
+::::::
 
 
 ## :thought_balloon: Discussion: Dogfooding :dog:
 
-:::evenly-spaced
+::::::evenly-spaced
 Problem: Want to use GeoJupyter projects internally at DSE, build cross-collaborations
 
+:::{style="font-size: 5em"}
 :ear:
-
-<br />
-<br />
 :::
+::::::
 
 
 # :tada: Bonus slides
