@@ -63,3 +63,15 @@ more!
 ---
 
 ![Animation of an Xarray-computed layer with `jupytergis-tiler`](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*LoISLf6L4GKZZgl2a9jlew.gif)
+
+
+
+## Timeline
+
+* Community/project overview slides (5 minutes)
+* JupyterGIS demo (5 minutes demo + 5 minutes discussion)
+* Discussion: Reproducible viz -> Notebook workflows work by interns (5 minutes)
+* Roadmapping (5 mins demo + 5 mins discussion)
+* Contributor on-ramps (5 mins demo + 5 mins discussion)
+* Discussion: Funding (15 minutes)
+* Discussion: Dogfooding (5 minutes)
