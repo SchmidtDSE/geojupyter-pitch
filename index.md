@@ -188,7 +188,9 @@ Or, even cooler...
 
 ## :thought_balloon: Reproducible viz -> Notebook workflows
 
-![Awesome work by awesome interns](assets/images/reproducible-viz-to-notebook-workflow.gif)
+Problem: Actions in visualization environments are often not reproducible
+
+![Awesome work by awesome interns](assets/images/reproducible-viz-to-notebook-workflow.gif){.nostretch width="450px"}
 
 
 ## :boom: :thought_balloon: Roadmapping
