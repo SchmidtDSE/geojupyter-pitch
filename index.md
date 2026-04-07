@@ -137,6 +137,7 @@ Many players!!!
 * Qiusheng Wu - Geospatial, AI, & education
 * Friends & neighbors: BIDS, MyST, JupyterHub, earthaccess, QuantStack, DevSeed, Pangeo,
   2i2c, Clark University, Stanford, Simula, CNES, ESA
+* **MANY MORE!!!**
 
 
 # :building_construction: Projects in the GeoJupyter community
