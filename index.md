@@ -40,6 +40,14 @@ more!
 :seedling: :notes: :drum: :musical_keyboard: :dog:
 :::
 
+## :thought_balloon: Please think about:
+
+:::evenly-spaced
+[:money_with_wings: Funding and capacity growing]{style="font-size: 1.3em"}
+
+[:dog: How we can dogfood this work @ DSE]{style="font-size: 1.3em"}
+:::
+
 # :earth_asia: GeoJupyter community overview
 
 :link: [geojupyter.org](https://geojupyter.org/)
